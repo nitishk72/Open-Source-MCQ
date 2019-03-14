@@ -1,162 +1,164 @@
-[
-  {
-    "question": "1. JSON stands for ________________",
-    "b": " JavaScript Object Notation",
-    "a": " Java Standard Output Network",
-    "c": " JavaScript Output Name",
-    "d": " Java Source Open Network",
-    "answer": "a",
-    "contributor": [
-      {
-        "name": "Nitish Kumar Singh",
-        "website": "https://nitishk72.tech",
-        "twitter": "@nitishk72_",
-        "github": "@nitishk72"
-      }
-    ]
-  },
-  {
-    "question": "2. Which is correct format of writting JSON name/value pair",
-    "b": " name = 'value'",
-    "a": " 'name : value'",
-    "c": " name = \"value\"",
-    "d": " \"name\" : \"value\"",
-    "answer": "a",
-    "contributor": [
-      {
-        "name": "Nitish Kumar Singh",
-        "website": "https://nitishk72.tech",
-        "twitter": "@nitishk72_",
-        "github": "@nitishk72"
-      }
-    ]
-  },
-  {
-    "question": "3. Which of the following is not a type in JSON?",
-    "b": " Object",
-    "a": " date",
-    "c": " Array",
-    "d": " string",
-    "answer": "a",
-    "contributor": [
-      {
-        "name": "Nitish Kumar Singh",
-        "website": "https://nitishk72.tech",
-        "twitter": "@nitishk72_",
-        "github": "@nitishk72"
-      }
-    ]
-  },
-  {
-    "question": "4. Who is the Father of JSON ?",
-    "b": " Rasmus Lerdorf",
-    "a": " Douglas Crockford",
-    "c": " Douglas Michel",
-    "d": " Dennis Ritchie",
-    "answer": "a",
-    "contributor": [
-      {
-        "name": "Nitish Kumar Singh",
-        "website": "https://nitishk72.tech",
-        "twitter": "@nitishk72_",
-        "github": "@nitishk72"
-      }
-    ]
-  },
-  {
-    "question": "5. What is correct MIME type for JSON ?",
-    "b": " application/json",
-    "a": " application/js",
-    "c": " json/mime",
-    "d": " application/xml",
-    "answer": "a",
-    "contributor": [
-      {
-        "name": "Nitish Kumar Singh",
-        "website": "https://nitishk72.tech",
-        "twitter": "@nitishk72_",
-        "github": "@nitishk72"
-      }
-    ]
-  },
-  {
-    "question": "6. What extension in used to save a JSON file?",
-    "b": " .js",
-    "a": " .json",
-    "c": " .javaN",
-    "d": " .on",
-    "answer": "a",
-    "contributor": [
-      {
-        "name": "Nitish Kumar Singh",
-        "website": "https://nitishk72.tech",
-        "twitter": "@nitishk72_",
-        "github": "@nitishk72"
-      }
-    ]
-  },
-  {
-    "question": "7. Which of following statement is false about the space parameter in JSON.stringify() ?",
-    "b": " It is an optional parameter",
-    "a": " It controls spacing in the resulting JSON string",
-    "c": " It removes whitespace",
-    "d": " All  are false",
-    "answer": "a",
-    "contributor": [
-      {
-        "name": "Nitish Kumar Singh",
-        "website": "https://nitishk72.tech",
-        "twitter": "@nitishk72_",
-        "github": "@nitishk72"
-      }
-    ]
-  },
-  {
-    "question": "8. Can you use a double quote inside a JSON string?",
-    "b": " Yes, if you use the ascii code.",
-    "a": " No, you should use single quotes",
-    "c": " Yes, if it is escaped like ( \\\" )",
-    "d": " Yes, you can use it without any special treatment",
-    "answer": "a",
-    "contributor": [
-      {
-        "name": "Nitish Kumar Singh",
-        "website": "https://nitishk72.tech",
-        "twitter": "@nitishk72_",
-        "github": "@nitishk72"
-      }
-    ]
-  },
-  {
-    "question": "9. For What is a JSONStringer used for?",
-    "b": " To create JSON ordered pairs.",
-    "a": " To quickly create number to JSON text.",
-    "c": " To converts JSON to Java strings",
-    "d": " To quickly create JSON text",
-    "answer": "a",
-    "contributor": [
-      {
-        "name": "Nitish Kumar Singh",
-        "website": "https://nitishk72.tech",
-        "twitter": "@nitishk72_",
-        "github": "@nitishk72"
-      }
-    ]
-  },
-  {
-    "question": "10. How do JSON provide Internationalization?",
-    "b": " Using keys.",
-    "a": " Using Unicode.",
-    "c": " Using datatype",
-    "d": " Using lang",
-    "answer": "a",
-    "contributor": [
-      {
-        "name": "Nitish Kumar Singh",
-        "website": "https://nitishk72.tech",
-        "twitter": "@nitishk72_",
-        "github": "@nitishk72"
-      }
-    ]
-  }
-]
+{
+  "data": [
+    {
+      "question": "1. JSON stands for ________________",
+      "b": " JavaScript Object Notation",
+      "a": " Java Standard Output Network",
+      "c": " JavaScript Output Name",
+      "d": " Java Source Open Network",
+      "answer": "a",
+      "contributor": [
+        {
+          "name": "Nitish Kumar Singh",
+          "website": "https://nitishk72.tech",
+          "twitter": "@nitishk72_",
+          "github": "@nitishk72"
+        }
+      ]
+    },
+    {
+      "question": "2. Which is correct format of writting JSON name/value pair",
+      "b": " name = 'value'",
+      "a": " 'name : value'",
+      "c": " name = \"value\"",
+      "d": " \"name\" : \"value\"",
+      "answer": "a",
+      "contributor": [
+        {
+          "name": "Nitish Kumar Singh",
+          "website": "https://nitishk72.tech",
+          "twitter": "@nitishk72_",
+          "github": "@nitishk72"
+        }
+      ]
+    },
+    {
+      "question": "3. Which of the following is not a type in JSON?",
+      "b": " Object",
+      "a": " date",
+      "c": " Array",
+      "d": " string",
+      "answer": "a",
+      "contributor": [
+        {
+          "name": "Nitish Kumar Singh",
+          "website": "https://nitishk72.tech",
+          "twitter": "@nitishk72_",
+          "github": "@nitishk72"
+        }
+      ]
+    },
+    {
+      "question": "4. Who is the Father of JSON ?",
+      "b": " Rasmus Lerdorf",
+      "a": " Douglas Crockford",
+      "c": " Douglas Michel",
+      "d": " Dennis Ritchie",
+      "answer": "a",
+      "contributor": [
+        {
+          "name": "Nitish Kumar Singh",
+          "website": "https://nitishk72.tech",
+          "twitter": "@nitishk72_",
+          "github": "@nitishk72"
+        }
+      ]
+    },
+    {
+      "question": "5. What is correct MIME type for JSON ?",
+      "b": " application/json",
+      "a": " application/js",
+      "c": " json/mime",
+      "d": " application/xml",
+      "answer": "a",
+      "contributor": [
+        {
+          "name": "Nitish Kumar Singh",
+          "website": "https://nitishk72.tech",
+          "twitter": "@nitishk72_",
+          "github": "@nitishk72"
+        }
+      ]
+    },
+    {
+      "question": "6. What extension in used to save a JSON file?",
+      "b": " .js",
+      "a": " .json",
+      "c": " .javaN",
+      "d": " .on",
+      "answer": "a",
+      "contributor": [
+        {
+          "name": "Nitish Kumar Singh",
+          "website": "https://nitishk72.tech",
+          "twitter": "@nitishk72_",
+          "github": "@nitishk72"
+        }
+      ]
+    },
+    {
+      "question": "7. Which of following statement is false about the space parameter in JSON.stringify() ?",
+      "b": " It is an optional parameter",
+      "a": " It controls spacing in the resulting JSON string",
+      "c": " It removes whitespace",
+      "d": " All  are false",
+      "answer": "a",
+      "contributor": [
+        {
+          "name": "Nitish Kumar Singh",
+          "website": "https://nitishk72.tech",
+          "twitter": "@nitishk72_",
+          "github": "@nitishk72"
+        }
+      ]
+    },
+    {
+      "question": "8. Can you use a double quote inside a JSON string?",
+      "b": " Yes, if you use the ascii code.",
+      "a": " No, you should use single quotes",
+      "c": " Yes, if it is escaped like ( \\\" )",
+      "d": " Yes, you can use it without any special treatment",
+      "answer": "a",
+      "contributor": [
+        {
+          "name": "Nitish Kumar Singh",
+          "website": "https://nitishk72.tech",
+          "twitter": "@nitishk72_",
+          "github": "@nitishk72"
+        }
+      ]
+    },
+    {
+      "question": "9. For What is a JSONStringer used for?",
+      "b": " To create JSON ordered pairs.",
+      "a": " To quickly create number to JSON text.",
+      "c": " To converts JSON to Java strings",
+      "d": " To quickly create JSON text",
+      "answer": "a",
+      "contributor": [
+        {
+          "name": "Nitish Kumar Singh",
+          "website": "https://nitishk72.tech",
+          "twitter": "@nitishk72_",
+          "github": "@nitishk72"
+        }
+      ]
+    },
+    {
+      "question": "10. How do JSON provide Internationalization?",
+      "b": " Using keys.",
+      "a": " Using Unicode.",
+      "c": " Using datatype",
+      "d": " Using lang",
+      "answer": "a",
+      "contributor": [
+        {
+          "name": "Nitish Kumar Singh",
+          "website": "https://nitishk72.tech",
+          "twitter": "@nitishk72_",
+          "github": "@nitishk72"
+        }
+      ]
+    }
+  ]
+}
