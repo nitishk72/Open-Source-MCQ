@@ -1,0 +1,37 @@
+{
+  "data": [
+    {
+      "category": "Computer Science Engineering",
+      "slug": "Computer-Science-Engineering",
+      "date": "14-02-2019",
+      "added_by": {
+        "name": "Nitish Kumar Singh",
+        "website": "https://nitishk72.tech",
+        "twitter": "@nitishk72_",
+        "github": "@nitishk72"
+      }
+    },
+    {
+        "category": "Mechanical Engineering",
+        "slug": "Mechanical-Engineering",
+        "date": "14-02-2019",
+        "added_by": {
+          "name": "Nitish Kumar Singh",
+          "website": "https://nitishk72.tech",
+          "twitter": "@nitishk72_",
+          "github": "@nitishk72"
+        }
+      },
+      {
+        "category": "Electrical Engineering",
+        "slug": "Electrical-Engineering",
+        "date": "14-02-2019",
+        "added_by": {
+          "name": "Nitish Kumar Singh",
+          "website": "https://nitishk72.tech",
+          "twitter": "@nitishk72_",
+          "github": "@nitishk72"
+        }
+      }
+  ]
+}
