@@ -2,7 +2,15 @@
   "data": [
     {
       "name": "SET A",
-      "slug": "/Computer-Science-Engineering/Javascript/JSON/SET-A"
+      "slug": "/Computer-Science-Engineering/Javascript/JSON/SET-A",
+      "contributor": [
+        {
+          "name": "Nitish Kumar Singh",
+          "website": "https://nitishk72.tech",
+          "twitter": "@nitishk72_",
+          "github": "@nitishk72"
+        }
+      ]
     }
   ]
 }
