@@ -6,7 +6,7 @@
       "a": " Java Standard Output Network",
       "c": " JavaScript Output Name",
       "d": " Java Source Open Network",
-      "answer": "a"
+      "answer": "b"
     },
     {
       "question": "2. Which is correct format of writting JSON name/value pair",
@@ -14,7 +14,7 @@
       "a": " 'name : value'",
       "c": " name = \"value\"",
       "d": " \"name\" : \"value\"",
-      "answer": "a"
+      "answer": "d"
     },
     {
       "question": "3. Which of the following is not a type in JSON?",
@@ -38,7 +38,7 @@
       "a": " application/js",
       "c": " json/mime",
       "d": " application/xml",
-      "answer": "a"
+      "answer": "b"
     },
     {
       "question": "6. What extension in used to save a JSON file?",
@@ -54,7 +54,7 @@
       "a": " It controls spacing in the resulting JSON string",
       "c": " It removes whitespace",
       "d": " All  are false",
-      "answer": "a"
+      "answer": "c"
     },
     {
       "question": "8. Can you use a double quote inside a JSON string?",
@@ -62,7 +62,7 @@
       "a": " No, you should use single quotes",
       "c": " Yes, if it is escaped like ( \\\" )",
       "d": " Yes, you can use it without any special treatment",
-      "answer": "a"
+      "answer": "c"
     },
     {
       "question": "9. For What is a JSONStringer used for?",
