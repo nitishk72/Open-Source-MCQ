@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "question": "1. Javascript is _________ language.",
+      "b": " Scripting",
+      "a": " Programming",
+      "c": " Application",
+      "d": " None of These",
+      "answer": "b"
+    },
+    {
+      "question": "2. JavaScript is ______ Side Scripting Language.",
+      "b": " ISP",
+      "d": " None of These",
+      "c": " Server",
+      "a": " Browser",
+      "answer": "a"
+    },
+    {
+      "question": "3.JavaScript is can be written",
+      "b": " directly on the Server Script",
+      "a": " directly into CSS file and included into HTML",
+      "c": " directly into HTML pages",
+      "d": " None of these",
+      "answer": "c"
+    },
+    {
+      "question": "4. JavaScript is designed for following purpose -",
+      "b": " To Execute Query Related to DB on Server",
+      "a": " To Style HTML Pages",
+      "c": " To add interactivity to HTML Pages.",
+      "d": " To Perform Server Side Scripting Opertion",
+      "answer": "c"
+    },
+    {
+      "question": "5. Cost for Using JavaScript in your HTML is _________ .",
+      "a": "$15 / Year",
+      "b": "Its Free !!!",
+      "c": "$10 / Year",
+      "d": "$5 / Year",
+      "answer": "b"
+    },
+    {
+      "question": "6. JavaScript Code is written inside file having extension __________.",
+      "a": ".javascript",
+      "b": ".jvs",
+      "c": ".jsc",
+      "d": ".js",
+      "answer": "d"
+    },
+    {
+      "question": "7. Why JavaScript is called as Lightweight Programming Language ?",
+      "a": "because JS is available free of cost.",
+      "b": "because we can add programming functionality inside JS",
+      "c": "because JS is client side scripting",
+      "d": "because JS can provide programming functionality inside but up to certain extend.",
+      "answer": "d"
+    },
+    {
+      "question": "8. JavaScript is also called as _____________.",
+      "a": "Server Side Scripting Language",
+      "b": "Server Side Language",
+      "c": "Client Side Scripting Language",
+      "d": "None of These",
+      "answer": "c"
+    },
+    {
+      "question": "9. Local Browser used for validations on the Web Pages uses __________.",
+      "a": "JS",
+      "b": "Java",
+      "c": "CSS",
+      "d": "HTML",
+      "answer": "a"
+    }
+  ]
+}
