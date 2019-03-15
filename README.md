@@ -1,1 +1,1 @@
-# Open-Source-MCQ
+# Open Source MCQ

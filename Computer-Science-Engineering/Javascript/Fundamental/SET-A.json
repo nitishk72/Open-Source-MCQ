@@ -1,0 +1,37 @@
+{
+    "data": [
+      {
+        "question": "1. Javascript is _________ language.",
+        "b": " Scripting",
+        "a": " None of These",
+        "c": " Application",
+        "d": " Programming",
+        "answer": "b"
+      },
+      {
+        "question": "2. JavaScript is ______ Side Scripting Language.",
+        "b": " ISP",
+        "a": " None of These",
+        "c": " Server",
+        "d": " Browser",
+        "answer": "d"
+      },
+      {
+        "question": "3.JavaScript is can be written",
+        "b": " directly on the Server Script",
+        "a": " directly into CSS file and included into HTML",
+        "c": " directly into HTML pages",
+        "d": " None of these",
+        "answer": "c"
+      },
+      {
+        "question": "4. JavaScript is designed for following purpose -",
+        "b": " To Execute Query Related to DB on Server",
+        "a": " To Style HTML Pages",
+        "c": " To add interactivity to HTML Pages.",
+        "d": " To Perform Server Side Scripting Opertion",
+        "answer": "c"
+      }
+    ]
+  }
+  
