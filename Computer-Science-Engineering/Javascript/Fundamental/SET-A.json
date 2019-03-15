@@ -3,18 +3,18 @@
     {
       "question": "1. Javascript is _________ language.",
       "b": " Scripting",
-      "a": " None of These",
+      "a": " Programming",
       "c": " Application",
-      "d": " Programming",
+      "d": " None of These",
       "answer": "b"
     },
     {
       "question": "2. JavaScript is ______ Side Scripting Language.",
       "b": " ISP",
-      "a": " None of These",
+      "d": " None of These",
       "c": " Server",
-      "d": " Browser",
-      "answer": "d"
+      "a": " Browser",
+      "answer": "a"
     },
     {
       "question": "3.JavaScript is can be written",
