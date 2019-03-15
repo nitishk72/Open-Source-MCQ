@@ -1,0 +1,12 @@
+{
+  "data": [
+    {
+      "question": "What is recurrence for worst case of QuickSort and what is the time complexity in Worst case?",
+      "a": "Recurrence is T(n) = T(n-2) + O(n) and time complexity is O(n^2)",
+      "b": "Recurrence is T(n) = T(n-1) + O(n) and time complexity is O(n^2)",
+      "c": "Recurrence is T(n) = 2T(n/2) + O(n) and time complexity is O(nLogn)",
+      "d": "Recurrence is T(n) = T(n/10) + T(9n/10) + O(n) and time complexity is O(nLogn)",
+      "answer": "b"
+    }
+  ]
+}
