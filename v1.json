@@ -1,6 +1,6 @@
 {
   "name" : "Available Quiz",
-   "quizs" : [{
+  "quizs" : [{
       "name" : "JSON",
       "url" : "https://gist.githubusercontent.com/nitishk72/35698710101eb823df162a043a8b8eec/raw/d34216b8aa669f6007a92cc2284197428de293e1/json-mcq-flutter.json"
     }]
